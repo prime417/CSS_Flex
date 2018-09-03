@@ -1,0 +1,31 @@
+#container{
+    background-color: #3ac2e4bb;
+display: flex;
+  
+   height: 200px;
+}
+#container div{
+    background-color: rgba(204, 68, 238, 0.445);
+    padding: 10px;
+    /* margin: 10px; */
+    border: 1px solid red;
+}
+
+/* .container_item1{
+    align-self: stretch;
+}
+.container_item2{
+    align-self: flex-start;
+}
+.container_item3{
+    align-self: center;
+}
+.container_item4{
+   align-self: flex-end;
+}
+
+.container_item5{
+   align-self: baseline;
+} */
+
+

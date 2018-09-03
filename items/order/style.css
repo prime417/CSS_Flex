@@ -1,0 +1,27 @@
+.container{
+    background-color: #3ac2e4bb;
+display: flex;
+   flex-wrap: wrap;
+}
+.container div{
+    background-color: rgba(204, 68, 238, 0.445);
+    padding: 50px;
+    /* margin: 10px; */
+    border: 1px solid red;
+
+}
+
+.container_item1{
+    order:2;
+}
+.container_item2{
+    order:1;
+}
+.container_item3{
+
+}
+
+.container_item4{
+  
+   
+}
